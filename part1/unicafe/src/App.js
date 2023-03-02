@@ -19,7 +19,7 @@ const StatisticsLine = props =>{
 const Statistics = props => {
   const average = () => (props.good - props.bad) / props.totalfeed
   const percentage = () => 100 * (props.good) / props.totalfeed
-  if (props.totalfeed != 0 ) {
+  if (props.totalfeed !== 0 ) {
     return (
         <div>
           <h2>statistics</h2>
