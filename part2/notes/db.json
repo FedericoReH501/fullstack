@@ -1,0 +1,85 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "content": "HTML is easy",
+      "important": true
+    },
+    {
+      "id": 2,
+      "content": "Browser can execute only JavaScript",
+      "important": false
+    },
+    {
+      "id": 3,
+      "content": "GET and POST are the most important methods of HTTP protocol",
+      "important": true,
+      "poggioverde": "'prova'"
+    },
+    {
+      "id": 4,
+      "content": "nuova nota",
+      "important": false
+    },
+    {
+      "id": 5,
+      "content": " funziona molto bene",
+      "important": false
+    },
+    {
+      "id": 6,
+      "content": " aggiorna anche il file db",
+      "important": false
+    },
+    {
+      "id": 7,
+      "content": "nota di prova",
+      "important": false
+    },
+    {
+      "content": "nota senza id",
+      "important": false,
+      "id": 8
+    },
+    {
+      "content": " che id trovo",
+      "important": false,
+      "id": 9
+    },
+    {
+      "content": "sicuro",
+      "important": false,
+      "id": 10
+    },
+    {
+      "content": "vediamo adesso che succede",
+      "important": false,
+      "id": 11
+    },
+    {
+      "content": "mmmm ",
+      "important": false,
+      "id": 12
+    },
+    {
+      "content": "adesso ha id",
+      "important": false,
+      "id": 13
+    },
+    {
+      "content": " daje di cristo",
+      "important": true,
+      "id": 14
+    },
+    {
+      "content": "addio maurizio costanzo",
+      "important": false,
+      "id": 15
+    },
+    {
+      "content": " ciaooo",
+      "important": true,
+      "id": 16
+    }
+  ]
+}
